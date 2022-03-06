@@ -1,0 +1,49 @@
+body{margin:0px;
+	background-image: url("https://www.bing.com/th?id=OIP.QOKLFI7-SMhiupT6OwdiWwHaDe&w=350&h=164&c=8&rs=1&qlt=90&o=6&dpr=1.56&pid=3.1&rm=2");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	}
+.navbar-wiki{
+	height: 70px;
+	width: 100%;
+	top:0px;
+	background-color: lightblue;
+	display: flex;
+	align-content: center;
+	align-items: center; 
+	justify-content: space-around;
+	position: fixed;
+}
+img{
+	height: 10px;
+	width: 13px;
+}
+.img1{
+	height: 350px;
+	width: 350px;
+}
+.container{
+	display: flex;
+	margin-top: 70px;
+}
+.sidebar{
+	display: block;
+	width: 30%;
+	padding-left: 15px;
+}
+.links{
+	background-color: ;
+	width: 70%;
+	margin-left: 10px;
+}
+hr{
+	margin-bottom: 40px;
+}
+button{
+	height: 25px;
+}
+table{margin-left: 45%;
+width: 30%;
+height: 100px;
+margin-bottom: 100px;}
